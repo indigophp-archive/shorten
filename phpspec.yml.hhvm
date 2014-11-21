@@ -1,5 +1,5 @@
 suites:
-  skeleton_suite:
-    namespace: Indigo\Skeleton
-    psr4_prefix: Indigo\Skeleton
+  shorten_suite:
+    namespace: Indigo\Shorten
+    psr4_prefix: Indigo\Shorten
 formatter.name: pretty
